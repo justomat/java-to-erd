@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Word.html" title="com.iluwatar.composite.Word" alt="" coords="17,113,66,137"/>
+<area shape="rect" id="node2_1" href="./Sentence.html" title="com.iluwatar.composite.Sentence" alt="" coords="113,113,186,137"/>
+<area shape="rect" id="node3_2" href="./LetterComposite.html" title="com.iluwatar.composite.LetterComposite" alt="" coords="92,17,207,41"/>
+<area shape="rect" id="node4_3" href="./Letter.html" title="com.iluwatar.composite.Letter" alt="" coords="231,113,283,137"/>
+</map>

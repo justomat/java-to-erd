@@ -1,0 +1,45 @@
+-classpath
+'/Users/ger/Codes/java/java-design-patterns/composite/target/classes'
+-doclet
+'org.umlgraph.doclet.UmlGraphDoc'
+-docletpath
+'/Users/ger/Codes/java/java-design-patterns/composite/doclets/UmlGraph.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/ger/Codes/java/java-design-patterns/composite/src/main/java'
+-subpackages gr.spinellis
+-author
+-bottom
+'Copyright &#169; 2016. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/ger/Codes/java/java-design-patterns/composite/target/site/uml'
+-docencoding
+'UTF-8'
+-doctitle
+'composite 1.9.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' '/Users/ger/Codes/java/java-design-patterns/composite/target/javadoc-bundle-options'
+-tag
+"depend:X"
+-tag
+"hidden:X"
+-tag
+"opt:X"
+-tag
+"assoc:X"
+-tag
+"has:X"
+-tag
+"composed:X"
+-tag
+"view:X"
+-tag
+"match:X"
+-use
+-version
+-windowtitle
+'composite 1.9.0-SNAPSHOT API'
